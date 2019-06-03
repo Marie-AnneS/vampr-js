@@ -57,6 +57,7 @@ class Vampire {
       }
     }
     return vampire;
+    /*test */
 
     /*    let vamp = []; // 1
     let nameVamp = [];
